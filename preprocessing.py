@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # from fairseq_cli.preprocess import cli_main
 # from fairseq import options, tasks, utils
@@ -6,6 +7,8 @@
 # import torch
 
 >>>>>>> 528ed5a... Part 1: environment preparation
+=======
+>>>>>>> 701e8b9... Part 2: preprocessing
 with open("ice_train.tsv", "r") as source:
     with open("train.ice.g", "w") as sink_word:
         with open("train.ice.p", "w") as sink_ipa:
